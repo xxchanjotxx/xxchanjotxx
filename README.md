@@ -39,7 +39,12 @@ Here are some ideas to get you started:
 
 ## Web Development
 ###  📌 Tools & Skills
-![](/images/mongodb-icon.svg)
+![](/images/html.svg.svg)
+![](/images/css.svg)
+![](/images/mongoDB.svg)
+![](/images/nodejs.svg)
+![](/images/react.svg)
+
 
 
 ###  💡 Projects
