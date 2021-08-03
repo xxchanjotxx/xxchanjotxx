@@ -59,14 +59,14 @@ Here are some ideas to get you started:
 
 ## Competitive Coding
 ### • Tools & Skills
-icons8-c++.svg
-![]
-![]
+![](/images/icons8-c++.svg)
+![](/images/icons8-java.svg)
+
 
 
 ## Data Science
 ### • Tools & Skills
-![](/images/python-icon.svg)
+![](/images/icons8-python.svg)
 
 
 
