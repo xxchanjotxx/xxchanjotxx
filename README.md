@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 
 ## Competitive Coding
 ### • Tools & Skills
-![]
+icons8-c++.svg
 ![]
 ![]
 
