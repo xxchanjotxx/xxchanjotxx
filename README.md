@@ -48,11 +48,10 @@ Here are some ideas to get you started:
 
 
 ###  💡 Projects
-#### 1. Management App - <a href= "https://protected-dawn-04416.herokuapp.com">TaskY</a>
-#### 2. Book Management APIS - <a href= "https://protected-dawn-04416.herokuapp.com">Repository Link</a>
-#### 3. Book My Show Clone - <a href= "https://protected-dawn-04416.herokuapp.com">Check it out here!</a>
+#### 1. Management App - <a href= "https://xxchanjotxx.github.io/TaskY__Website/m">TaskY</a>
+#### 2. Book Management APIS - <a href= "https://github.com/xxchanjotxx/BookManagementAPI">Repository Link</a>
+#### 3. Book My Show Clone - <a href= "https://book-my-show-sand.vercel.app/">Check it out here!</a>
 #### 4. College fest Website - <a href= "malharfest.org">Malhar'21</a>
-
 
 
 
