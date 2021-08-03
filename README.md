@@ -40,10 +40,10 @@ Here are some ideas to get you started:
 ## Web Development
 ###  📌 Tools & Skills
 ![](/images/html.svg)
-![](/images/css.svg)
-![](/images/mongoDB.svg)
-![](/images/nodejs.svg)
-![](/images/react.svg)
+![](/images/icons8-css3.svg)
+![](/images/icons8-mongodb.svg)
+![](/images/icons8-nodejs.svg)
+![](/images/icons8-react.svg)
 
 
 
