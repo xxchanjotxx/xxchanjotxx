@@ -34,6 +34,8 @@ Here are some ideas to get you started:
 
 ## My Github Statistics
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xxchanjotxx&layout=compact&theme=radical&custom_title=Languages&card_width=800)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xxchanjotxx)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## Web Development
 ### • 📌 Tools & Skills
