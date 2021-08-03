@@ -33,16 +33,16 @@ Here are some ideas to get you started:
 
 
 ## My Github Statistics
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xxchanjotxx&layout=compact&theme=radical&custom_title=Languages&card_width=800)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xxchanjotxx)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xxchanjotxx&layout=compact&theme=radical&custom_title=Languages&card_width=800)](https://github.com/anuraghazra/github-readme-stats) <br>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xxchanjotxx)](https://github.com/anuraghazra/github-readme-stats)<br>
 
 
 ## Web Development
-### • 📌 Tools & Skills
+###  📌 Tools & Skills
 ![](/images/mongodb-icon.svg)
 
 
-### • 💡 Projects
+###  💡 Projects
 #### 1. Management App - <a href= "https://protected-dawn-04416.herokuapp.com">TaskY</a>
 #### 2. Book Management APIS - <a href= "https://protected-dawn-04416.herokuapp.com">Repository Link</a>
 #### 3. Book My Show Clone - <a href= "https://protected-dawn-04416.herokuapp.com">Check it out here!</a>
@@ -66,5 +66,5 @@ Here are some ideas to get you started:
 
 
 
-### • More Projects Coming Soon!
+ More Projects Coming Soon!
 
