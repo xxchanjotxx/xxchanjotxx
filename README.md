@@ -48,12 +48,12 @@ Here are some ideas to get you started:
 
 
 ###  💡 Projects
-#### 1. College Fest Websites: - 1) <a href= "https://xxchanjotxx.github.io/malhar-2022/">Malhar'22</a>
-####                             2) <a href= "https://xxchanjotxx.github.io/malhar-live/malhar-website/index.html">Malhar'21</a>
-#### 2. College Music Group Website - <a href= "https://xxchanjotxx.github.io/indianmusicgroup/">Indian Music Group</a>
-#### 3. Book Management APIS - <a href= "https://github.com/xxchanjotxx/BookManagementAPI">Repository Link</a>
-#### 4. Book My Show Clone - <a href= "https://book-my-show-sand.vercel.app/">Check it out here!</a>
-#### 5. Management App - <a href= "https://xxchanjotxx.github.io/TaskY__Website/">TaskY</a>
+#### 1. College Fest Websites: - <a href= "https://xxchanjotxx.github.io/malhar-2022/" target="_blank">Malhar'22</a>
+- <a href= "https://xxchanjotxx.github.io/malhar-live/malhar-website/index.html" target="_blank">Malhar'21</a>
+#### 2. College Music Group Website - <a href= "https://xxchanjotxx.github.io/indianmusicgroup/" target="_blank">Indian Music Group</a>
+#### 3. Book Management APIS - <a href= "https://github.com/xxchanjotxx/BookManagementAPI" target="_blank">Repository Link</a>
+#### 4. Book My Show Clone - <a href= "https://book-my-show-sand.vercel.app/" target="_blank">Check it out here!</a>
+#### 5. Management App - <a href= "https://xxchanjotxx.github.io/TaskY__Website/" target="_blank">TaskY</a>
 
 
 ## Competitive Coding
