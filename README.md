@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 💻 Currently my interests lies in: 
+### 💻 Currently my interests lie in: 
 • 🌐 Web Development <br>
 
 
