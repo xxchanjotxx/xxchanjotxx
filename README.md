@@ -18,18 +18,7 @@ Here are some ideas to get you started:
 -->
 
 ### 💻 Currently my interests lie in: 
-• 🌐 Web Development <br>
-
-
-### 🌱 I am currently learning 
-• 👓 React <br>
-• 👨‍💻 NodeJS <br>
-• 🖱 Tailwind <br>
-• ⌨️ REST APIS <br>
-• 📚 MongoDB <br>
-• ⚙️ Arduino <br>
-
-
+• 👨‍💻 Data Analysis <br>
 
 
 ## My Github Statistics
