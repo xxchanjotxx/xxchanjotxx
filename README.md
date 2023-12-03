@@ -28,6 +28,9 @@ Here are some ideas to get you started:
 
 ## Web Development
 ###  📌 Tools & Skills
+![](/images/icons8-python.svg)
+![](/images/icons8-excel.svg)
+![](/images/icons8-tableau-software.svg)
 ![](/images/html.svg)
 ![](/images/icons8-css3.svg)
 ![](/images/icons8-mongodb.svg)
