@@ -26,19 +26,12 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xxchanjotxx&layout=compact&theme=radical&custom_title=Languages&card_width=800)](https://github.com/anuraghazra/github-readme-stats) <br>
 
 
-
-## Web Development
 ###  📌 Tools & Skills
 ![image](https://github.com/xxchanjotxx/xxchanjotxx/assets/78687582/8a8df9c0-fa06-4ea8-95c3-00ad8bc2296a)
-
-![](/images/icons8-excel.svg)
-![](/images/icons8-tableau-software.svg)
-![](/images/html.svg)
-![](/images/icons8-css3.svg)
-![](/images/icons8-mongodb.svg)
-![](/images/icons8-nodejs.svg)
-![](/images/icons8-react.svg)
-
+![image](https://github.com/xxchanjotxx/xxchanjotxx/assets/78687582/d973f261-88a8-4902-80ed-750ecb9381ce)
+![image](https://github.com/xxchanjotxx/xxchanjotxx/assets/78687582/52346a2f-0b59-4f21-b8ea-bd9e49c190d2)
+![image](https://github.com/xxchanjotxx/xxchanjotxx/assets/78687582/35c14d61-6a97-44f2-a076-d92d4a7b7547)
+![image](https://github.com/xxchanjotxx/xxchanjotxx/assets/78687582/e95368c7-0a2e-4599-bdfb-3ca541e5c785)
 
 
 ###  💡 Projects
