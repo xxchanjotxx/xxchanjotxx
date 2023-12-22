@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xxchanjotxx)](https://github.com/anuraghazra/github-readme-stats)<br>
 -->
 
-### 💻 Currently my interests lie in: <br>
-• 👨‍💻 Data Analysis <br> 
+### 💻 Currently my interests lie in: <br><br>
+• 👨‍💻 Data Analysis <br> <br>
 
 
 ## My Github Statistics
