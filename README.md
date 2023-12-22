@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 ![image](https://github.com/xxchanjotxx/xxchanjotxx/assets/78687582/e95368c7-0a2e-4599-bdfb-3ca541e5c785)
 
 ###  💡 Data Analysis Projects:
-#### 1. <a href= "https://github.com/xxchanjotxx/Sea-level-predictor" target="_blank">Sea Level Predictor</a>
+#### 1. ### <a href= "https://github.com/xxchanjotxx/Sea-level-predictor" target="_blank">Sea Level Predictor</a>
 #### 2. Demographic Analysis - <a href= "https://github.com/xxchanjotxx/Demographic-Analysis" target="_blank">Check it out here!</a>
 #### 3. Medical Data Analysis - <a href= "https://github.com/xxchanjotxx/Medical-Analysis" target="_blank">Indian Music Group</a>
 
