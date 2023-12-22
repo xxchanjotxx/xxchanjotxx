@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xxchanjotxx)](https://github.com/anuraghazra/github-readme-stats)<br>
 -->
 
 ### 💻 Currently my interests lie in: 
@@ -23,12 +24,12 @@ Here are some ideas to get you started:
 
 ## My Github Statistics
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xxchanjotxx&layout=compact&theme=radical&custom_title=Languages&card_width=800)](https://github.com/anuraghazra/github-readme-stats) <br>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xxchanjotxx)](https://github.com/anuraghazra/github-readme-stats)<br>
+
 
 
 ## Web Development
 ###  📌 Tools & Skills
-![](/images/icons8-python.svg)
+![image](https://github.com/xxchanjotxx/xxchanjotxx/assets/78687582/a5d51f48-d9f0-4428-97ff-e0de9a283016)
 ![](/images/icons8-excel.svg)
 ![](/images/icons8-tableau-software.svg)
 ![](/images/html.svg)
