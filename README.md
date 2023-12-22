@@ -33,29 +33,18 @@ Here are some ideas to get you started:
 ![image](https://github.com/xxchanjotxx/xxchanjotxx/assets/78687582/35c14d61-6a97-44f2-a076-d92d4a7b7547)
 ![image](https://github.com/xxchanjotxx/xxchanjotxx/assets/78687582/e95368c7-0a2e-4599-bdfb-3ca541e5c785)
 
+###  💡 Data Analysis Projects:
+#### 1. <a href= "https://github.com/xxchanjotxx/Sea-level-predictor" target="_blank">Sea Level Predictor</a>
+#### 2. Demographic Analysis - <a href= "https://github.com/xxchanjotxx/Demographic-Analysis" target="_blank">Check it out here!</a>
+#### 3. Medical Data Analysis - <a href= "https://github.com/xxchanjotxx/Medical-Analysis" target="_blank">Indian Music Group</a>
 
-###  💡 Projects
+
+###  💡 Web Projects:
 #### 1. College Fest Websites: - <a href= "https://xxchanjotxx.github.io/malhar-2022/" target="_blank">Malhar'22</a>
 - <a href= "https://xxchanjotxx.github.io/malhar-live/malhar-website/index.html" target="_blank">Malhar'21</a>
-#### 2. College Music Group Website - <a href= "https://xxchanjotxx.github.io/indianmusicgroup/" target="_blank">Indian Music Group</a>
-#### 3. Book Management APIS - <a href= "https://github.com/xxchanjotxx/BookManagementAPI" target="_blank">Repository Link</a>
-#### 4. Book My Show Clone - <a href= "https://book-my-show-sand.vercel.app/" target="_blank">Check it out here!</a>
-#### 5. Management App - <a href= "https://xxchanjotxx.github.io/TaskY__Website/" target="_blank">TaskY</a>
-
-
-## Competitive Coding
-### • Tools & Skills
-![](/images/icons8-c++.svg)
-![](/images/icons8-java.svg)
-
-
-
-## Data Science
-### • Tools & Skills
-![](/images/icons8-python.svg)
-
-
-
+#### 2. Book My Show Clone - <a href= "https://book-my-show-sand.vercel.app/" target="_blank">Check it out here!</a>
+#### 3. College Music Group Website - <a href= "https://xxchanjotxx.github.io/indianmusicgroup/" target="_blank">Indian Music Group</a>
+#### 4. Management App - <a href= "https://xxchanjotxx.github.io/TaskY__Website/" target="_blank">TaskY</a>
 
  More Projects Coming Soon!
 
